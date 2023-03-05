@@ -93,3 +93,41 @@ WHERE
 	BillingCity IN ('Brussels', 'Orlando', 'Paris')
 ORDER BY
 	InvoiceDate;
+
+	-- Search records without an exact match
+
+/*
+Created by: Marek Szumny
+Create date: 2023/03/05
+Description: How many invoices were billed in cities that start with B?
+*/
+
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	BillingCity LIKE 'B%'
+ORDER BY
+	InvoiceDate;
+
+/*
+Created by: Marek Szumny
+Create date: 2023/03/05
+Description: How many invoices were billed in cities that have a B anywhere in it's name?
+*/
+
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	BillingCity LIKE '%B%'
+ORDER BY
+	InvoiceDate;
