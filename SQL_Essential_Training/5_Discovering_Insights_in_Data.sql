@@ -94,7 +94,7 @@ WHERE
 ORDER BY
 	InvoiceDate;
 
-	-- Search records without an exact match
+	-- 5.5 Search records without an exact match
 
 /*
 Created by: Marek Szumny
@@ -129,5 +129,63 @@ FROM
 	Invoice
 WHERE
 	BillingCity LIKE '%B%'
+ORDER BY
+	InvoiceDate;
+
+	-- 5.6 Filter and analyze using dates
+
+/*
+Created by: Marek Szumny
+Create date: 2023/03/05
+Description: How many invoices were billed on 2010-05-22 00:00:00?
+*/
+
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	InvoiceDate='2010-05-22 00:00:00'
+ORDER BY
+	InvoiceDate;
+
+/*
+Created by: Marek Szumny
+Create date: 2023/03/05
+Description: How many invoices were billed on 2010-05-22 00:00:00?
+*/
+
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	DATE(InvoiceDate)='2010-05-22'
+ORDER BY
+	InvoiceDate;
+
+	-- 5.7 Filter records based on more than one condition
+
+/*
+Created by: Marek Szumny
+Create date: 2023/03/05
+Description: How many invoices were billed after 2010-05-22 and have a total of less than 3.00?
+*/
+
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	DATE(InvoiceDate)>'2010-05-22' AND total<3.00
 ORDER BY
 	InvoiceDate;
