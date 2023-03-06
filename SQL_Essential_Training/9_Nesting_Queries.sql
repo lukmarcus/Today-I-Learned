@@ -53,10 +53,57 @@ SELECT
 FROM
 	Invoice
 WHERE
-	InvoiceDate > 
+	InvoiceDate >
 	(SELECT
 		InvoiceDate
 	FROM
 		Invoice
 	WHERE
 		InvoiceId=251);
+
+	-- 9.5 IN clause subquery
+
+/*
+Created by: Marek Szumny
+Create date: 2023/03/06
+Description: Returning multiple values from a subquery | What purchases were made on particular dates?
+*/
+
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity
+FROM
+	Invoice
+WHERE
+	InvoiceDate IN
+	(SELECT
+		InvoiceDate
+	FROM
+		Invoice
+	WHERE
+		InvoiceId IN (251, 252, 254));
+
+	-- 9.6 DISTINCT clause subquery
+
+/*
+Created by: Marek Szumny
+Create date: 2023/03/06
+Description: Subqueries and DISTINCT | Which tracks are not selling?
+*/
+
+SELECT
+	TrackId,
+	Composer,
+	Name
+FROM
+	Track
+WHERE
+	TrackId NOT IN
+	(SELECT
+		DISTINCT
+		TrackId
+	FROM
+		InvoiceLine
+	ORDER BY
+	TrackId);
