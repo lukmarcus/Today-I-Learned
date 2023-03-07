@@ -1,6 +1,8 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-07
+- [Xpath Diner](https://topswagcode.com/xpath/)
 #### 2023-03-04 - 2023-03-07
 - [SQL Essential Training](/SQL_Essential_Training)
 
