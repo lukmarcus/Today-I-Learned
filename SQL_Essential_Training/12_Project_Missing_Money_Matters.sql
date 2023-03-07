@@ -37,7 +37,8 @@ Description: Get a list of customers who made purchases between 2011 and 2012
 SELECT
 	DISTINCT
 	c.FirstName,
-	c.LastName
+	c.LastName,
+	i.total
 FROM
 	Invoice AS i
 JOIN
@@ -47,7 +48,7 @@ ON
 WHERE
 	i.InvoiceDate BETWEEN '2011-01-01' AND '2012-12-31'
 ORDER BY
-	c.LastName;
+	i.total DESC;
 
 /*
 Created by: Marek Szumny
@@ -86,13 +87,18 @@ Description: How many transactions are above the average transaction amount duri
 */
 
 SELECT
-	InvoiceId,
-	total,
-	(SELECT AVG(total) FROM Invoice WHERE InvoiceDate BETWEEN '2011-01-01' AND '2012-12-31') AS [Global average]
+	COUNT(total) AS [Number of transactions above average 2011-2012]
 FROM
 	Invoice
 WHERE
-	(InvoiceDate BETWEEN '2011-01-01' AND '2012-12-31') AND (total > [Global average]);
+	total >
+		(SELECT
+			AVG(total)
+		FROM
+			Invoice
+		WHERE
+			InvoiceDate BETWEEN '2011-01-01' AND '2012-12-31')
+	AND InvoiceDate BETWEEN '2011-01-01' AND '2012-12-31';
 
 /*
 Created by: Marek Szumny
@@ -102,7 +108,7 @@ Description: What is the average transaction amount for each year that WSDA Musi
 
 SELECT
 	substr(InvoiceDate,1,4) AS [Year],
-	avg(total) AS [Average]
+	round(avg(total),2) AS [Average]
 FROM
 	Invoice
 GROUP BY
