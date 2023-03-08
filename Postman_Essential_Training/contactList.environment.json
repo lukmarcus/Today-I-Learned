@@ -1,0 +1,57 @@
+{
+	"id": "a3ea4670-de59-41cf-8855-f3d64e2fd660",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "Carol",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Jones",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "asmith@thinkingtester.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "city",
+			"value": "Boston, MA",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "country",
+			"value": "USA",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "jobTitle",
+			"value": "Software Tester",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "company",
+			"value": "Microsoft",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-03-08T15:02:00.454Z",
+	"_postman_exported_using": "Postman/10.11.1"
+}

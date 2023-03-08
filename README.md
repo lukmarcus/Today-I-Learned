@@ -2,7 +2,7 @@
 My repository with various stuff I saw and/or learned.
 
 #### 2023-03-08
-- [Postman Essential Training](/Postman_Essential_Training): Chapters 1-3
+- [Postman Essential Training](/Postman_Essential_Training): Chapters 1-4
 
 #### 2023-03-07
 - [SQL Essential Training](/SQL_Essential_Training): Chapters 10-12
