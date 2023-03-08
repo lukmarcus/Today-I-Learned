@@ -1,0 +1,13 @@
+{
+    "firstName": "{{firstName}}",
+    "lastName": "{{lastName}}",
+    "email": "{{email}}",
+    "location": {
+        "city": "{{city}}",
+        "country": "{{country}}"
+    },
+    "employer": {
+        "jobTitle": "{{jobTitle}}",
+        "company": "{{company}}"
+    }
+}
