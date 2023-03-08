@@ -5,10 +5,10 @@
 ## Set-up
 
 - Ubuntu Postman install
-- `sudo snap install postman`
+`sudo snap install postman`
 - Ubuntu Newman install
-- `npm install -g newman`
+`npm install -g newman`
 
 ## API
-- `3.13.86.142:3000`
-- Documentation: 
+`3.13.86.142:3000`
+- Documentation: https://documenter.getpostman.com/view/4012288/SWLceUSf
