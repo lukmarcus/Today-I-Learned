@@ -1,8 +1,11 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-10
+- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 5-14
+
 #### 2023-03-09
-- [The Complete Cypress v12 Course: From Zero to Expert](The_Complete_Cypress_v12_Course_From_Zero_to_Expert): Sections 1-4
+- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 1-4
 - [Postman Essential Training](/Postman_Essential_Training): Chapter 5 ([Certificate of Completion](https://www.linkedin.com/learning/certificates/440967d757b9bef0871176ed9b90089cba38807a5c458d1243d46670c0466d6a))
 
 #### 2023-03-08
