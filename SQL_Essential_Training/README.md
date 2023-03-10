@@ -1,6 +1,6 @@
 # SQL Essential Training
 
-- Exercises files for LinkedIn learning course: https://www.linkedin.com/learning/sql-essential-training-20685933/
+- Exercise files for LinkedIn learning course: https://www.linkedin.com/learning/sql-essential-training-20685933/
 
 ## DB Browser for SQLite
 
