@@ -1,6 +1,10 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-12
+- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 14-15
+- Youtube: [Selector/ XPATH/ ID, czyli pierwsze kroki w stronę automatyzacji](https://youtu.be/fCzOBek4e1s)
+
 #### 2023-03-11
 - [test:fest](https://testfest.pl/): after party
 
