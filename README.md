@@ -1,6 +1,9 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-11
+- [test:fest](https://testfest.pl/): after party
+
 #### 2023-03-10
 - [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 5-14
 
