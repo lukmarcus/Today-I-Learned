@@ -2,7 +2,7 @@
 My repository with various stuff I saw and/or learned.
 
 #### 2023-03-13
-- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 15-18
+- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 15-20
 
 #### 2023-03-12
 - [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 14-15
