@@ -3,6 +3,7 @@ My repository with various stuff I saw and/or learned.
 
 #### 2023-03-14
 - [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 20-22
+- [End-to-End JavaScript Testing with Cypress.io](https://github.com/lukmarcus/cypress-learning): Chapters 1-4 ([Certificate of Completion](https://www.linkedin.com/learning/certificates/246e0d331be2f1be7aa1c9a4bdc86a035b944e5320d0019a64895b8ceb837ba7))
 
 #### 2023-03-13
 - [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 15-20
