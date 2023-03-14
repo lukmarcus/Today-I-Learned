@@ -1,6 +1,9 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-14
+- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 20-22
+
 #### 2023-03-13
 - [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 15-20
 
