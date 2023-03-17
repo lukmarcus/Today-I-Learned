@@ -1,6 +1,14 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-17
+- [Updates for Cypress e2e tests for noisy/portfolio](https://github.com/noisy/portfolio/pull/85)
+- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 23-25
+
+#### 2023-03-16
+- [Updates for Cypress e2e tests for noisy/portfolio](https://github.com/noisy/portfolio/pull/85)
+- [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Sections 22-23
+
 #### 2023-03-15
 - [First Cypress e2e tests for noisy/portfolio](https://github.com/noisy/portfolio/pull/85)
 - [The Complete Cypress v12 Course: From Zero to Expert](https://github.com/lukmarcus/cypress-learning): Section 22
