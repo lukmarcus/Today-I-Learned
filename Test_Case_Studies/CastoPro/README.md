@@ -76,7 +76,7 @@
 
 ## Login
 ### #5: The login page does not check both login fields simultaneously
-**Description:** Page `/pl/auth/login` does not check both fields simultaneously. The password `Hasło` is checked first and then the e-mail (`Adres e-mail`).
+**Description:** Page `/pl/auth/login` does not check both fields simultaneously. The password `Hasło` is checked first, and then the e-mail (`Adres e-mail`).
 
 **Steps to reproduce:**
 1. Open page `pl/auth/login`.
@@ -109,7 +109,7 @@
 ![CastoPro06](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/06.png)
 
 ### #7: Misleading error message during the password recovery when an e-mail is not in the database
-**Description:** On the page `/pl/auth/login` when using the password recovery option, if a valid e-mail is entered but one in the database, an error appears that `this is not a valid e-mail`.
+**Description:** On the page `/pl/auth/login`, when using the password recovery option, if a valid e-mail is entered but one in the database, an error appears that `this is not a valid e-mail`.
 
 **Steps to reproduce:**
 1. Open page `/pl/auth/login`.
@@ -146,13 +146,13 @@
 ![CastoPro08b](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/08b.png)
 
 ### #9:  The menu background is too short between 992px and 1098px width
-**Description:** On pages with a width between 992px and 1098px, the menu's background is too small for the registration link `REJESTRACJA`.
+**Description:** On pages with a width between 992px and 1098px, the background of the menu is too small for the registration link `REJESTRACJA`.
 
 **Steps to reproduce:**
 1. Open page `/pl/home`.
 2. Change the page width to between 992px and 1098px.
 
-**Actual result:** Menu is too small for the word `REJESTRACJA`.
+**Actual result:** The menu is too small for the word `REJESTRACJA`.
 
 **Expected result:** The width of the menu includes all items.
 
