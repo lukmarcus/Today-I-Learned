@@ -1,10 +1,10 @@
 # CastoPro - About the job
-**Task:** Find an error on the page
-**Page:** [CastoPro - loyalty program for professionals | Castorama](https://castopro.castorama.pl/pl/home)
-**Customer:** [SigmaCEM Analytics](https://sigmacem.com/)
-**Environment:** Google Chrome 110.0.5481.100 in Ubuntu 20.04.4 LTS
-**Timeframe:** 48h
-**End date:** 2023-03-01
+- **Task:** Find an error on the page
+- **Page:** [CastoPro - loyalty program for professionals | Castorama](https://castopro.castorama.pl/pl/home)
+- **Customer:** [SigmaCEM Analytics](https://sigmacem.com/)
+- **Environment:** Google Chrome 110.0.5481.100 in Ubuntu 20.04.4 LTS
+- **Timeframe:** 48h
+- **End date:** 2023-03-01
 
 # Additional information
 - Due to the lack of requirements for a specific testing environment and a responsive version, the most popular web browser was chosen.
@@ -28,6 +28,7 @@
 **Expected result:** Required fields are clearly marked (e.g. asterisks with a legend).
 
 **Screenshot:**
+
 ![CastoPro02](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/02.png)
 
 ### #3: The registration page does not check all required fields at once
@@ -47,6 +48,7 @@
 **Expected result:** All messages regarding incorrectly completed fields appear at once.
 
 **Screenshots:**
+
 ![CastoPro03a](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/03a.png)
 ![CastoPro03b](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/03b.png)
 ![CastoPro03c](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/03c.png)
@@ -69,6 +71,7 @@
 **Expected result:** Information about an incorrect e-mail appears even without entering a phone number.
 
 **Screenshot:**
+
 ![CastoPro04](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/04.png)
 
 ## Login
@@ -85,6 +88,7 @@
 **Expected result:** Error messages for both email and password fields.
 
 **Screenshots:**
+
 ![CastoPro05a](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/05a.png)
 ![CastoPro05b](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/05b.png)
   
@@ -101,6 +105,7 @@
 **Expected result:** Two identical looking messages.
 
 **Screenshot:**
+
 ![CastoPro06](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/06.png)
 
 ### #7: Misleading error message during the password recovery when an e-mail is not in the database
@@ -117,12 +122,12 @@
 **Expected result:** A message that if such an e-mail is in the database, a link has been sent.
 
 **Screenshot:**
+
 ![CastoPro07](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/07.png)
 
 ## Responsive design
 ### #8: The paragraph `Od 25 lat wspieramy Profesjonalistów` disappears below the 992px width
-**Description:** Po zmniejszeniu strony poniżej 992px strony `/pl/home` chowa się cały akapit „Od 25 lat wspieramy Profesjonalistów”.
-Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspieramy Profesjonalistów”`.
+**Description:** Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspieramy Profesjonalistów`.
 
 **Steps to reproduce:**
 1. Open page `/pl/home`.
@@ -133,9 +138,11 @@ Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspier
 **Expected result:** The paragraph adjusts to the new width.
 
 **Screenshot above 992px width:**
+
 ![CastoPro08a](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/08a.png)
 
 **Screenshot below 992px width:**
+
 ![CastoPro08b](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/08b.png)
 
 ### #9:  The menu background is too short between 992px and 1098px width
@@ -150,6 +157,7 @@ Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspier
 **Expected result:** The width of the menu includes all items.
 
 **Screenshot:**
+
 ![CastoPro09](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/09.png)
 
 ### #10: The menu button overlaps the website logo below 284px width
@@ -164,6 +172,7 @@ Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspier
 **Expected result:** The website logo shrinks or menu button is below website logo.
   
 **Screenshot:**
+
 ![CastoPro10](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/10.png)
 
 ### #11: Opening and closing the menu is not a button, but narrow elements
@@ -178,6 +187,7 @@ Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspier
 **Expected result:** Open and close menu items are buttons or larger areas that are easier to click.
 
 **Screenshots:**
+
 ![CastoPro11a](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/11a.png)
 ![CastoPro11b](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/11b.png)
 
@@ -194,6 +204,7 @@ Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspier
 **Expected result:** The page adapts to the width of the screen.
 
 **Screenshot:**
+
 ![CastoPro12](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/12.png)
 
 ### #13: The privacy policy do not scale below 382px width
@@ -208,4 +219,5 @@ Page `/pl/home` below 992px does not show the entire paragraph `Od 25 lat wspier
 **Expected result:** The page adapts to the width of the screen.
 
 **Screenshot:**
+
 ![CastoPro13](https://raw.githubusercontent.com/lukmarcus/Today-I-Learned/main/Test_Case_Studies/CastoPro/13.png)
