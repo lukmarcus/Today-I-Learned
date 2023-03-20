@@ -1,7 +1,11 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-19
+- [New Cypress e2e tests for noisy/portfolio](https://github.com/noisy/portfolio/pull/91)
+
 #### 2023-03-18
+- [Updates for Cypress e2e tests for noisy/portfolio](https://github.com/noisy/portfolio/pull/85)
 - [CastoPro Case Study](/Test_Case_Studies/CastoPro)
 
 #### 2023-03-17
