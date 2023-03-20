@@ -1,6 +1,12 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-20
+- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/): Chapters 1-3
+- Youtube: [Reduce basics - Part 3 of Functional Programming in JavaScript](https://youtu.be/Wl98eZpkp-c)
+- Youtube: [Map - Part 2 of Functional Programming in JavaScript](https://youtu.be/bCqtb-Z5YGQ)
+- Youtube: [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://youtu.be/BMUiFMZr7vk)
+
 #### 2023-03-19
 - [New Cypress e2e tests for noisy/portfolio](https://github.com/noisy/portfolio/pull/91)
 
