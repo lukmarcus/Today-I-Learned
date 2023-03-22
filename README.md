@@ -1,6 +1,10 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-22
+- [Entrance test for the «Fundamentals of Software Testing» QATestLab course](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
+- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/): Chapters 6-7
+
 #### 2023-03-21
 - [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/): Chapters 4-6
 
