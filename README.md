@@ -1,7 +1,14 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-24
+- [CV v1.3.2](https://github.com/lukmarcus/lukmarcus.github.io)
+
+#### 2023-03-23
+- [Content updates for my portfolio](https://github.com/lukmarcus/portfolio/pull/2)
+
 #### 2023-03-22
+- [Content updates for my portfolio](https://github.com/lukmarcus/portfolio/pull/2)
 - [Entrance test for the «Fundamentals of Software Testing» QATestLab course](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
 - [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/): Chapters 6-7
 
