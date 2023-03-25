@@ -1,7 +1,11 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-25
+- [Content updates for my portfolio](https://github.com/lukmarcus/portfolio/pull/2)
+
 #### 2023-03-24
+- [Content updates for my portfolio](https://github.com/lukmarcus/portfolio/pull/2)
 - [CV v1.3.2](https://github.com/lukmarcus/lukmarcus.github.io)
 
 #### 2023-03-23
