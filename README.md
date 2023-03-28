@@ -1,6 +1,11 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-27
+- [CV v1.4.0](https://github.com/lukmarcus/lukmarcus.github.io)
+- [Configure Netlify for my portfolio](https://github.com/lukmarcus/portfolio) to generate Deploy Previews & work with [MarekSzumny.com](https://marekszumny.com/) (UNDER CONSTRUCTION)
+- [Updates for my portfolio](https://github.com/lukmarcus/portfolio/pulls?q=is%3Apr+is%3Aclosed)
+
 #### 2023-03-26
 - [Content updates for my portfolio](https://github.com/lukmarcus/portfolio/pull/2)
 
