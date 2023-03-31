@@ -1,6 +1,14 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-03-30
+- [Issues for Test Case Study - Sklep Z Bugami](https://github.com/lukmarcus/sklepzbugami.pl-test-case-study/issues)
+- [Updates for my portfolio](https://github.com/lukmarcus/portfolio/pulls?q=is%3Apr+is%3Aclosed)
+
+#### 2023-03-29
+- [Issues for Test Case Study - Sklep Z Bugami](https://github.com/lukmarcus/sklepzbugami.pl-test-case-study/issues)
+- [Updates for my portfolio](https://github.com/lukmarcus/portfolio/pulls?q=is%3Apr+is%3Aclosed)
+
 #### 2023-03-28
 - [Updates for my portfolio](https://github.com/lukmarcus/portfolio/pulls?q=is%3Apr+is%3Aclosed)
 
