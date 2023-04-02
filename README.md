@@ -1,8 +1,12 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-04-01
+- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapter 1
+- [Issues for Test Case Study - Sklep Z Bugami](https://github.com/lukmarcus/sklepzbugami.pl-test-case-study/issues)
+
 #### 2023-03-31
-- [Bootstrap 5 Essential Training](/Bootstrap_5_Essential_Training): Chapter 1
+- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapter 1
 - [Issues for Test Case Study - Sklep Z Bugami](https://github.com/lukmarcus/sklepzbugami.pl-test-case-study/issues)
 - [Updates for my portfolio](https://github.com/lukmarcus/portfolio/pulls?q=is%3Apr+is%3Aclosed)
 
