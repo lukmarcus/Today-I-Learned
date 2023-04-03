@@ -2,7 +2,7 @@
 My repository with various stuff I saw and/or learned.
 
 #### 2023-04-03
-- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapter 2
+- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 2-3
 - [CV v1.4.3](https://github.com/lukmarcus/lukmarcus.github.io)
 
 #### 2023-04-02
