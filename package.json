@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.7",
+    "jquery": "^3.6.4"
+  }
+}
