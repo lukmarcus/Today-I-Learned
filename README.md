@@ -2,7 +2,7 @@
 My repository with various stuff I saw and/or learned.
 
 #### 2023-04-05
-- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 4-5
+- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 4-6
 
 #### 2023-04-04
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #1
