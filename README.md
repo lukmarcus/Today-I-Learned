@@ -2,6 +2,9 @@
 My repository with various stuff I saw and/or learned.
 
 #### 2023-04-04
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #1
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #1
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 1. Introduction. What is a bug (defect)?
 - [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 3-4
 - Information repetition and systematization: manual testing, ISTQB, SQL and Postman
 
