@@ -5,3 +5,10 @@
 ## Github repository
 
 - https://github.com/planetoftheweb/bootstrap4
+
+# Documentation
+## jQuery
+- https://jquery.com/download/
+
+## Popper
+- https://popper.js.org/
