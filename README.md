@@ -2,6 +2,7 @@
 My repository with various stuff I saw and/or learned.
 
 #### 2023-04-05
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #1
 - [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 4-6
 
 #### 2023-04-04
