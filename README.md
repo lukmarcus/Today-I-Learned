@@ -2,6 +2,7 @@
 My repository with various stuff I saw and/or learned.
 
 #### 2023-04-06
+- Bootstrap fixes for noisy/portfolio: [#96](https://github.com/noisy/portfolio/pull/96), [#97](https://github.com/noisy/portfolio/pull/97), [#98](https://github.com/noisy/portfolio/pull/98)
 - [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapter 6
 
 #### 2023-04-05
