@@ -1,7 +1,14 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-04-07
+- [Fundamentals of Software Testing](/Fundamentals_of_Software_Testing): Homework #1 uploaded
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #2
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #2
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 2. Web projects testing. Practice: Writing the bug report. Layout checklist
+
 #### 2023-04-06
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #1
 - Bootstrap fixes for noisy/portfolio: [#96](https://github.com/noisy/portfolio/pull/96), [#97](https://github.com/noisy/portfolio/pull/97), [#98](https://github.com/noisy/portfolio/pull/98)
 - [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapter 6
 
