@@ -1,6 +1,9 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-04-09
+- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 6-7
+
 #### 2023-04-08
 - [Merging noisy/portfolio master with my portfolio](https://github.com/lukmarcus/portfolio/pull/12)
 - [Codenga SQL Foundations - Level 1](https://codenga.pl/products/fundamenty_sql_level_1) ([Certificate of Completion](https://codenga.pl/p/certificate/hash/4p3kqrz3j92c8kwgogw8oo0cgk8s4gw))
