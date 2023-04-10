@@ -25,4 +25,4 @@
 
 **Video:**
 
-![NQA01](/Test_Case_Studies/No_Questions_Asked/01.mp4)
+[![NQA01](/Test_Case_Studies/No_Questions_Asked/01.png)](https://github.com/lukmarcus/Today-I-Learned/raw/main/Test_Case_Studies/No_Questions_Asked/01.mp4)
