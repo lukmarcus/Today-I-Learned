@@ -1,6 +1,9 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-04-11
+- [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 7-8 ([Certificate of Completion](https://www.linkedin.com/learning/certificates/355bdb9c51677bfe9fbe90b48ce6cd7d725445607f424b563cb067280d02b358))
+
 #### 2023-04-10
 - [No Questions Asked Test Case Study](/Test_Case_Studies/No_Questions_Asked/)
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #2
