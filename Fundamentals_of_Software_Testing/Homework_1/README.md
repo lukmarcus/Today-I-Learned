@@ -22,7 +22,7 @@
 
 **Description:** One of the images on top carousel is missed on 'Design' page.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://trainingcentre.wixsite.com/design
 2. Pay attention to the top images carousel.
 
@@ -52,7 +52,7 @@
 
 **Description:** 404 error (page not found) is shown on 'Projects' page after clicking 'Projects' link in top menu on 'Design' page.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://trainingcentre.wixsite.com/design
 2. Click 'Projects' link in top menu below header image.
 3. Pay attention to the error message on center of the page.
@@ -83,7 +83,7 @@
 
 **Description:** 'Design' page is not scrolled to the top after clicking 'Up' button on bottom of the page right above the footer.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://trainingcentre.wixsite.com/design
 2. Scroll to the bottom of page.
 3. Click on the 'Up' button on the right side above the footer.

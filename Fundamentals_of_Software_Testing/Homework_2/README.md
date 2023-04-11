@@ -26,7 +26,7 @@
 
 **Description:** 'My account' text is covered by a paw symbol after hovering over the 'My account' option in the top menu.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://opencart.qatestlab.net/
 2. Locate the top menu with the shop categories.
 3. Hover over the 'My account' option in the top menu.
@@ -62,8 +62,8 @@
 
 **Description:** Two top-right banners are placed without a gap on the main page below the top menu. Without this gap, the left and right banner columns are not aligned at the bottom.
 
-**Steps To Reproduce::**
-1. . Open page http://opencart.qatestlab.net/
+**Steps To Reproduce:**
+1. Open page http://opencart.qatestlab.net/
 2. Locate three banners below the top menu with the shop categories.
 3. Pay attention to the spacing of two banners in the right column.
 
@@ -97,7 +97,7 @@
 
 **Description:** A banner with the 'Lorem ipsum' template text is shown on the main page above the 'Specials' section.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://opencart.qatestlab.net/
 2. Locate the 'Specials' section header on the page.
 3. Pay attention to the banner above the 'Specials' section.
@@ -132,7 +132,7 @@
 
 **Description:** The link to the incorrect Facebook page is used on the Facebook social media button in the footer. The link goes to the 'QATestLab' page instead of the 'Best Friends' page.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://opencart.qatestlab.net/
 2. Scroll to the bottom of the main page.
 3. Click the Facebook icon on the footer.
@@ -146,9 +146,7 @@
 
 ![0934451](0934451.jpg)
 
-**Video:**
-
-![0934451](0934451.webm)
+**Video:** [0934451.webm](0934451.webm)
 
 **Additional Information:** The same issue occurs on:
 - Mozilla Firefox 111.0.1
@@ -172,7 +170,7 @@
 
 **Description:** The link to the incorrect Twitter page is used on the Twitter social media button in the footer. The link goes to 'https://twitter.com/404' instead of the 'Best Friends' account.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://opencart.qatestlab.net/
 2. Scroll to the bottom of the main page.
 3. Click the Twitter icon on the footer.
@@ -186,9 +184,7 @@
 
 ![0934456](0934456.jpg)
 
-**Video:**
-
-![0934456](0934456.webm)
+**Video:** [0934456.webm](0934456.webm)
 
 **Additional Information:** The same issue occurs on:
 - Mozilla Firefox 111.0.1
@@ -212,7 +208,7 @@
 
 **Description:** Google+ link is used as the social media button in the footer. It's a dead link because Google+ was shut down for business and personal use on April 2, 2019.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://opencart.qatestlab.net/
 2. Scroll to the bottom of the main page.
 3. Pay attention to the Google+ icon on the footer.
@@ -247,7 +243,7 @@
 
 **Description:** Zoomed product photo is covered by the 'ADD TO CART' button on the product page after adding the product to the cart and hovering over the product photo.
 
-**Steps To Reproduce::**
+**Steps To Reproduce:**
 1. Open page http://opencart.qatestlab.net/
 2. Locate the 'Specials' section header on the page.
 3. Click on the name of the product 'Exclusive Marine Corals Orijina' in the 'Specials' section.
@@ -263,9 +259,7 @@
 
 ![0934525](0934525.jpg)
 
-**Video:**
-
-![0934525](0934525.webm)
+**Video:** [0934525.webm](0934525.webm)
 
 **Additional Information:** The same issue occurs on:
 - Mozilla Firefox 111.0.1
