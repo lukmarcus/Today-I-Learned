@@ -1,6 +1,11 @@
 # Today I Learned
 My repository with various stuff I saw and/or learned.
 
+#### 2023-04-12
+- [CV v1.4.4](https://github.com/lukmarcus/lukmarcus.github.io)
+- Bootstrap table for [Homework #2](https://htmlpreview.github.io/?https://github.com/lukmarcus/Today-I-Learned/blob/main/Fundamentals_of_Software_Testing/Homework_2/Website_layout_checklist.html)
+- Fundamentals of Software Testing: [Homework #2](/Fundamentals_of_Software_Testing/Homework_2) uploaded
+
 #### 2023-04-11
 - [GraphQL Wroclaw #13](https://www.meetup.com/graphql-wroclaw/events/292067618/)
 - [Bootstrap 4 Essential Training](/Bootstrap_4_Essential_Training): Chapters 7-8 ([Certificate of Completion](https://www.linkedin.com/learning/certificates/355bdb9c51677bfe9fbe90b48ce6cd7d725445607f424b563cb067280d02b358))
