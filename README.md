@@ -2,6 +2,7 @@
 My repository with various stuff I've done, seen and learned.
 
 #### 2023-04-12
+- [Real World Testing with Cypress - Testing Your First Application](https://github.com/lukmarcus/cypress-learning): Lessons 1-4
 - [CV v1.4.4](https://github.com/lukmarcus/lukmarcus.github.io)
 - Bootstrap table for [Homework #2](https://htmlpreview.github.io/?https://github.com/lukmarcus/Today-I-Learned/blob/main/Fundamentals_of_Software_Testing/Homework_2/Website_layout_checklist.html)
 - Fundamentals of Software Testing: [Homework #2](/Fundamentals_of_Software_Testing/Homework_2) uploaded
@@ -95,13 +96,13 @@ My repository with various stuff I've done, seen and learned.
 #### 2023-03-22
 - [Content updates for my portfolio](https://github.com/lukmarcus/portfolio/pull/2)
 - [Entrance test for the «Fundamentals of Software Testing» QATestLab course](https://en.training.qatestlab.com/course/software-testing-fundamentals/)
-- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/): Chapters 6-7
+- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://github.com/lukmarcus/cypress-learning): Chapters 6-7
 
 #### 2023-03-21
-- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/): Chapters 4-6
+- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://github.com/lukmarcus/cypress-learning): Chapters 4-6
 
 #### 2023-03-20
-- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://applitools.com/event/workshop-head-to-head-web-testing-part-1-with-cypress/): Chapters 1-3
+- [Workshop: Head-to-Head Web Testing: Part 1 with Cypress](https://github.com/lukmarcus/cypress-learning): Chapters 1-3
 - Youtube: [Reduce basics - Part 3 of Functional Programming in JavaScript](https://youtu.be/Wl98eZpkp-c)
 - Youtube: [Map - Part 2 of Functional Programming in JavaScript](https://youtu.be/bCqtb-Z5YGQ)
 - Youtube: [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://youtu.be/BMUiFMZr7vk)
