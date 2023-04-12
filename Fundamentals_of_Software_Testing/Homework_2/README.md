@@ -8,6 +8,16 @@
 - Enter the name and version of the browser 
 - Mark the results for all checked items - Passed/Failed. If point checked as “Failed” put the link to the bug-report in the notes (at least 5 links) or the bug summary according to the principle of “What? Where? When?” (if 5 links are already added)
 
+## The task
+- Make a copy of the document and rename, indicating your name
+- Specify the names and versions of browsers
+- Add at least 5-7 new items (be sure to mark them with some color)
+- Check all items in different browsers (at least 3) and mark "Passed" (highlight in green) or "Failed" (highlight in red)
+- For all items marked as "Failed" in the comments / notes it is necessary to add link to the bug-report (at least 5 links) in the bug tracker (http: // ...) or a note with the bug subject on the principle "What? Where? When?"
+- Write at least 5 bug reports
+
+## [Fundamentals of Software Testing: Website layout checklist - Homework #2](https://htmlpreview.github.io/?https://github.com/lukmarcus/Today-I-Learned/blob/main/Fundamentals_of_Software_Testing/Homework_2/Website_layout_checklist.html)
+
 ### Issue #0934385
 
 **Priority**: low
