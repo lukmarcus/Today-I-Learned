@@ -1,5 +1,5 @@
 # Today I Learned
-My repository with various stuff I saw and/or learned.
+My repository with various stuff I've done, seen and learned.
 
 #### 2023-04-12
 - [CV v1.4.4](https://github.com/lukmarcus/lukmarcus.github.io)
