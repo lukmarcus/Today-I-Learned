@@ -2,6 +2,8 @@
 My repository with various stuff I've done, seen and learned.
 
 #### 2023-04-12
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #3
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 2. Approaches to the Functional Testing
 - [Real World Testing with Cypress - Testing Your First Application](https://github.com/lukmarcus/cypress-learning): Lessons 1-4
 - [CV v1.4.4](https://github.com/lukmarcus/lukmarcus.github.io)
 - Bootstrap table for [Homework #2](https://htmlpreview.github.io/?https://github.com/lukmarcus/Today-I-Learned/blob/main/Fundamentals_of_Software_Testing/Homework_2/Website_layout_checklist.html)
