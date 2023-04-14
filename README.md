@@ -1,10 +1,14 @@
 # Today I Learned
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-14
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #3
+
 #### 2023-04-13
 - Real World Testing with Cypress - Cypress Fundamentals: Lessons 1-5
 - Real World Testing with Cypress - Testing Foundations: Lessons 1-5
 - [Real World Testing with Cypress - Testing Your First Application](https://github.com/lukmarcus/cypress-learning): Lesson 5
+- [Fixes for noisy/portfolio](https://github.com/noisy/portfolio/pull/112)
 
 #### 2023-04-12
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #3
