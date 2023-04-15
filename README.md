@@ -1,6 +1,9 @@
 # Today I Learned
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-15
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #3
+
 #### 2023-04-14
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #3
 
