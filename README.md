@@ -1,21 +1,37 @@
 # Today I Learned
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-18
+- [Cypress API test](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js) for [/trelloCloneApp](https://github.com/lukmarcus/trelloCloneApp)
+
+#### 2023-04-17
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #4
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #4
+- [Cypress API test](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js) for [/trelloCloneApp](https://github.com/lukmarcus/trelloCloneApp)
+- [Real World Testing with Cypress - Cypress Fundamentals](https://learn.cypress.io/cypress-fundamentals): Lesson 7
+- creating [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio)
+
+#### 2023-04-16
+- creating [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio)
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #3
+
 #### 2023-04-15
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #3
+- creating [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio)
 
 #### 2023-04-14
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #3
+- [Real World Testing with Cypress - Cypress Fundamentals](https://learn.cypress.io/cypress-fundamentals): Lesson 6
 
 #### 2023-04-13
-- Real World Testing with Cypress - Cypress Fundamentals: Lessons 1-5
-- Real World Testing with Cypress - Testing Foundations: Lessons 1-5
+- [Real World Testing with Cypress - Cypress Fundamentals](https://learn.cypress.io/cypress-fundamentals): Lessons 1-5
+- [Real World Testing with Cypress - Testing Foundations](https://learn.cypress.io/testing-foundations): Lessons 1-5
 - [Real World Testing with Cypress - Testing Your First Application](https://github.com/lukmarcus/cypress-learning): Lesson 5
 - [Fixes for noisy/portfolio](https://github.com/noisy/portfolio/pull/112)
 
 #### 2023-04-12
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #3
-- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 2. Approaches to the Functional Testing
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 3. Approaches to the Functional Testing
 - [Real World Testing with Cypress - Testing Your First Application](https://github.com/lukmarcus/cypress-learning): Lessons 1-4
 - [CV v1.4.4](https://github.com/lukmarcus/lukmarcus.github.io)
 - Bootstrap table for [Homework #2](https://htmlpreview.github.io/?https://github.com/lukmarcus/Today-I-Learned/blob/main/Fundamentals_of_Software_Testing/Homework_2/Website_layout_checklist.html)
