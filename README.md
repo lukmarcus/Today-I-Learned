@@ -1,23 +1,29 @@
 # Today I Learned
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-19
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #4
+- [Test Case Studies](https://github.com/lukmarcus/test-case-studies): update
+- [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio): update
+
 #### 2023-04-18
-- [Cypress API test](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js) for [/trelloCloneApp](https://github.com/lukmarcus/trelloCloneApp)
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #4
+- [trelloCloneApp](https://github.com/lukmarcus/trelloCloneApp): [Cypress API test](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js) update
 
 #### 2023-04-17
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #4
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #4
-- [Cypress API test](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js) for [/trelloCloneApp](https://github.com/lukmarcus/trelloCloneApp)
+- [trelloCloneApp](https://github.com/lukmarcus/trelloCloneApp): [Cypress API test](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js) update
 - [Real World Testing with Cypress - Cypress Fundamentals](https://learn.cypress.io/cypress-fundamentals): Lesson 7
-- creating [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio)
+- [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio): update
 
 #### 2023-04-16
-- creating [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio)
+- [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio): update
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #3
 
 #### 2023-04-15
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #3
-- creating [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio)
+- [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio): new repository
 
 #### 2023-04-14
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #3
@@ -27,7 +33,7 @@ My repository with various stuff I've done, seen and learned.
 - [Real World Testing with Cypress - Cypress Fundamentals](https://learn.cypress.io/cypress-fundamentals): Lessons 1-5
 - [Real World Testing with Cypress - Testing Foundations](https://learn.cypress.io/testing-foundations): Lessons 1-5
 - [Real World Testing with Cypress - Testing Your First Application](https://github.com/lukmarcus/cypress-learning): Lesson 5
-- [Fixes for noisy/portfolio](https://github.com/noisy/portfolio/pull/112)
+- [noisy/portfolio](https://github.com/noisy/portfolio): [fixes](https://github.com/noisy/portfolio/pull/112)
 
 #### 2023-04-12
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #3
