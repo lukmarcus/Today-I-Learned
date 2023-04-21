@@ -1,13 +1,23 @@
 # Today I Learned
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-21
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #5 - TestLink
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 5. Test Design. Test Cases (part 2/2)
+
+#### 2023-04-20
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #5 - TestLink
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 5. Test Design. Test Cases (part 1/2)
+- [Test Case Studies](https://github.com/lukmarcus/test-case-studies): Best Friends added
+
 #### 2023-04-19
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #4
-- [Test Case Studies](https://github.com/lukmarcus/test-case-studies): update
+- [Test Case Studies](https://github.com/lukmarcus/test-case-studies): CastoPro, No Questions Asked & Dezign for Life added
 - [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio): update
 
 #### 2023-04-18
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #4
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 4. Software Testing Lifeсycle
 - [trelloCloneApp](https://github.com/lukmarcus/trelloCloneApp): [Cypress API test](https://github.com/lukmarcus/trelloCloneApp/blob/main/cypress/e2e/login_actions.cy.js) update
 
 #### 2023-04-17
