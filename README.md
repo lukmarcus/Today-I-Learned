@@ -4,6 +4,7 @@ My repository with various stuff I've done, seen and learned.
 
 #### 2023-04-24
 
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #6
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 6. Mobile application testing
 - [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Best Friends - Bootstrap table for Homework #3, TestLink/TestRail Test Cases added
 
