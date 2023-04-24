@@ -2,7 +2,24 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-24
+
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 6. Mobile application testing
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Best Friends - Bootstrap table for Homework #3, TestLink/TestRail Test Cases added
+
+#### 2023-04-23
+
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Best Friends - new issues
+
+#### 2023-04-22
+
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Best Friends - new issues
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #5 - Issues
+
 #### 2023-04-21
+
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #5 - TestRail
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #5
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #5 - TestLink
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 5. Test Design. Test Cases (part 2/2)
 
@@ -10,12 +27,12 @@ My repository with various stuff I've done, seen and learned.
 
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #5 - TestLink
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 5. Test Design. Test Cases (part 1/2)
-- [Test Case Studies](https://github.com/lukmarcus/test-case-studies): Best Friends added
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Best Friends added
 
 #### 2023-04-19
 
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #4
-- [Test Case Studies](https://github.com/lukmarcus/test-case-studies): CastoPro, No Questions Asked & Dezign for Life added
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): CastoPro, No Questions Asked & Design for Life added
 - [My Cypress Portfolio](https://github.com/lukmarcus/cypress-portfolio): update
 
 #### 2023-04-18
