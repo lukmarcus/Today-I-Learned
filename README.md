@@ -2,6 +2,18 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-26
+
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 7. Game testing
+- [CV v1.6.0](https://github.com/lukmarcus/lukmarcus.github.io)
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #6 - Issues
+
+#### 2023-04-25
+
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #6 - Issues
+- Android SDK Build-Tools - getting logs from Android device
+- [CV v1.5.0](https://github.com/lukmarcus/lukmarcus.github.io)
+
 #### 2023-04-24
 
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #6
