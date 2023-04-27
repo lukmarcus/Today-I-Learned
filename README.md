@@ -2,17 +2,24 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-27
+
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 7. Game testing (2/2)
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Unit Converter app - added, Best Friends - new issues
+
 #### 2023-04-26
 
-- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 7. Game testing
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture test #7
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 7. Game testing (1/2)
 - [CV v1.6.0](https://github.com/lukmarcus/lukmarcus.github.io)
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #6 - Issues
 
 #### 2023-04-25
 
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #6 - Issues
-- Android SDK Build-Tools - getting logs from Android device
+- Android Debug Bridge - getting logs from Android device
 - [CV v1.5.0](https://github.com/lukmarcus/lukmarcus.github.io)
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Best Friends - Table of contents added
 
 #### 2023-04-24
 
