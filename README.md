@@ -2,6 +2,16 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-29
+
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Final exam
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #7
+
+#### 2023-04-28
+
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Facultative task
+- [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Home assignment #7 - Issues
+
 #### 2023-04-27
 
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Lecture 7. Game testing (2/2)
