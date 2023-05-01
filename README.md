@@ -2,8 +2,13 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-04-30
+
+- [agateau/burgerparty](https://github.com/agateau/burgerparty): [Polish translation](https://github.com/agateau/burgerparty/pull/6)
+
 #### 2023-04-29
 
+- [agateau/pixelwheels](https://github.com/agateau/pixelwheels): [Polish translation fixes](https://github.com/agateau/pixelwheels/pull/335)
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Final exam
 - [QATestLab course «Fundamentals of Software Testing»](https://en.training.qatestlab.com/course/software-testing-fundamentals/): Feedback corrections for home assignment #7
 
