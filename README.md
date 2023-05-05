@@ -2,6 +2,25 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-05
+
+- The Palace on the Hill Prologue: Steam & Android game testing
+
+#### 2023-05-04
+
+- The Palace on the Hill Prologue: Steam game testing
+
+#### 2023-05-03
+
+- agateau/pixelwheels: testing
+
+#### 2023-05-02
+
+- agateau/pixelwheels: testing
+- [WildLearner: Git Course 100%](https://wildlearner.com/learn/course/git/) ([Certificate of Completion](https://wildlearner-users-prod.s3.amazonaws.com/111528154077473635071/certificate_1683053937989.jpg))
+
+#### 2023-05-01
+
 #### 2023-04-30
 
 - [agateau/burgerparty](https://github.com/agateau/burgerparty): [Polish translation](https://github.com/agateau/burgerparty/pull/6)
