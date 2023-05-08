@@ -2,24 +2,45 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-08
+
+- The Palace on the Hill Prologue: Steam game testing
+- [Workshop: Head-to-Head Web Testing: Part 2 with Playwright](https://applitools.com/event/workshop-head-to-head-web-testing-part-2-with-playwright/)
+- YouTube: [Best Javascript Recursion Explanation on YouTube](https://youtu.be/LteNqj4DFD8)
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 101-113
+
+#### 2023-05-07
+
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 91-100
+
+#### 2023-05-06
+
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 81-90
+
 #### 2023-05-05
 
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 71-80
 - The Palace on the Hill Prologue: Steam & Android game testing
 
 #### 2023-05-04
 
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 61-70
 - The Palace on the Hill Prologue: Steam game testing
 
 #### 2023-05-03
 
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 41-60
 - agateau/pixelwheels: testing
 
 #### 2023-05-02
 
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 21-40
 - agateau/pixelwheels: testing
-- [WildLearner: Git Course 100%](https://wildlearner.com/learn/course/git/) ([Certificate of Completion](https://wildlearner-users-prod.s3.amazonaws.com/111528154077473635071/certificate_1683053937989.jpg))
+- [WildLearner Git Course](https://wildlearner.com/learn/course/git/): 100% ([Certificate of Completion](https://wildlearner-users-prod.s3.amazonaws.com/111528154077473635071/certificate_1683053937989.jpg))
 
 #### 2023-05-01
+
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 1-20
 
 #### 2023-04-30
 
