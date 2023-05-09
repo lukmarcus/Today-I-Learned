@@ -2,12 +2,17 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-09
+
+- [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/): Chapters 1-6
+- [freeCodeCamp ES6 (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6): Challenges 1-7
+
 #### 2023-05-08
 
 - The Palace on the Hill Prologue: Steam game testing
 - [Workshop: Head-to-Head Web Testing: Part 2 with Playwright](https://applitools.com/event/workshop-head-to-head-web-testing-part-2-with-playwright/)
 - YouTube: [Best Javascript Recursion Explanation on YouTube](https://youtu.be/LteNqj4DFD8)
-- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 101-113
+- [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 101-113 (100%)
 
 #### 2023-05-07
 
