@@ -2,10 +2,44 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-16
+
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Pixel Wheels - new issues
+
+#### 2023-05-15
+
+- [agateau/pixelwheels](https://github.com/agateau/pixelwheels): [testing](https://github.com/agateau/pixelwheels/issues/created_by/lukmarcus)
+- [agateau/burgerparty](https://github.com/agateau/burgerparty): [Polish translation](https://github.com/agateau/burgerparty/pull/6)
+- [Testing Currents for parallel CI tests in Cloud](https://github.com/lukmarcus/cypress-cloud-test/pull/2)
+- [Testing Cypress Cloud for parallel CI tests in Cloud](https://github.com/lukmarcus/cypress-cloud-test/pull/1)
+
+#### 2023-05-14
+
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): The Palace on the Hill - new issues
+
+#### 2023-05-13
+
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): The Palace on the Hill - new issues
+
+#### 2023-05-12
+
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): The Palace on the Hill - new issues
+
+#### 2023-05-11
+
+- [Manual Testing](https://github.com/lukmarcus/Manual-Testing): The Palace on the Hill - added with issues
+- [CV v1.6.3](https://github.com/lukmarcus/lukmarcus.github.io)
+
+#### 2023-05-10
+
+- [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/): Chapters 7-13
+- [CV v1.6.2](https://github.com/lukmarcus/lukmarcus.github.io)
+
 #### 2023-05-09
 
 - [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/): Chapters 1-6
 - [freeCodeCamp ES6 (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6): Challenges 1-7
+- [agateau/pixelwheels](https://github.com/agateau/pixelwheels): [testing](https://github.com/agateau/pixelwheels/issues/created_by/lukmarcus)
 
 #### 2023-05-08
 
@@ -35,12 +69,13 @@ My repository with various stuff I've done, seen and learned.
 #### 2023-05-03
 
 - [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 41-60
-- agateau/pixelwheels: testing
+- [agateau/pixelwheels](https://github.com/agateau/pixelwheels): [testing](https://github.com/agateau/pixelwheels/issues/created_by/lukmarcus)
 
 #### 2023-05-02
 
 - [freeCodeCamp Basic JavaScript (JavaScript Algorithms and Data Structures)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript): Challenges 21-40
-- agateau/pixelwheels: testing
+- [agateau/pixelwheels](https://github.com/agateau/pixelwheels): [testing](https://github.com/agateau/pixelwheels/issues/created_by/lukmarcus)
+
 - [WildLearner Git Course](https://wildlearner.com/learn/course/git/): 100% ([Certificate of Completion](https://wildlearner-users-prod.s3.amazonaws.com/111528154077473635071/certificate_1683053937989.jpg))
 
 #### 2023-05-01
