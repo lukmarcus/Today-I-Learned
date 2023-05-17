@@ -2,8 +2,13 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-17
+
+- [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 1, Lessons 3-4
+
 #### 2023-05-16
 
+- [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 1, Lessons 1-3
 - [Manual Testing](https://github.com/lukmarcus/Manual-Testing): Pixel Wheels - new issues
 
 #### 2023-05-15
