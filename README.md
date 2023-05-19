@@ -2,6 +2,10 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-19
+
+- [IndieBI](https://indiebi.com/) internship onboarding
+
 #### 2023-05-18
 
 - [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 2, Lessons 1-8
