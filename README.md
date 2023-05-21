@@ -2,6 +2,14 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-21
+
+- [lukmarcus/meet.js-cypress-github](https://github.com/lukmarcus/meet.js-cypress-github): testing Cypress Cloud & Sorry Cypress
+
+#### 2023-05-20
+
+- [lukmarcus/meet.js-cypress-github](https://github.com/lukmarcus/meet.js-cypress-github): testing Cypress Cloud & Sorry Cypress
+
 #### 2023-05-19
 
 - [IndieBI](https://indiebi.com/) internship onboarding
