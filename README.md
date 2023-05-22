@@ -2,6 +2,10 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-22
+
+- YouTube: [BiteIT #78: Playwright – jak dobrze podejść do wdrożenia nowego frameworku? | Michał Wilkowski](https://youtu.be/Vs66ik1sL6s)
+
 #### 2023-05-21
 
 - [lukmarcus/meet.js-cypress-github](https://github.com/lukmarcus/meet.js-cypress-github): testing Cypress Cloud & Sorry Cypress
