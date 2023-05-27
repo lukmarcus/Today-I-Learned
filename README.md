@@ -2,6 +2,26 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-05-26
+
+- Playwright login tests
+
+#### 2023-05-25
+
+- [meet.js Wrocław presentation](https://www.linkedin.com/posts/meetjs_wrocagkaw-cypress-github-activity-7064973912257769472-JBYt): Cypress & Github - Efficient Setup for Pull Requests with Cypress Cloud and Alternatives
+
+#### 2023-05-24
+
+- [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 5-6
+
+#### 2023-05-23
+
+- [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 3-4
+
+#### 2023-05-23
+
+- [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 1-2
+
 #### 2023-05-22
 
 - YouTube: [BiteIT #78: Playwright – jak dobrze podejść do wdrożenia nowego frameworku? | Michał Wilkowski](https://youtu.be/Vs66ik1sL6s)
