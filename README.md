@@ -2,28 +2,57 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-06-01
+
+- Internship: Refactoring Playwright onboarding tests
+
+#### 2023-05-31
+
+- Internship: Adding data-testID to project
+- My portfolio: [Skills updated](https://github.com/lukmarcus/portfolio/pull/20)
+
+#### 2023-05-30
+
+- Internship: Changing Playwright registration process
+- [CV v1.7.1](https://github.com/lukmarcus/lukmarcus.github.io)
+
+#### 2023-05-29
+
+- Internship: Refactoring Playwright onboarding tests
+- My portfolio: [Talk ID changed to official meet.js channel](https://github.com/lukmarcus/portfolio/pull/19)
+
+#### 2023-05-28
+
+- Internship: Playwright succcesful registration test with API
+- My portfolio: [Added talk about Cypress](https://github.com/lukmarcus/portfolio/pull/18)
+
+#### 2023-05-27
+
+- Internship: Playwright succcesful registration test with API
+
 #### 2023-05-26
 
-- Playwright login tests
+- Internship: New Playwright onboarding tests
 
 #### 2023-05-25
 
+- Internship: New Playwright onboarding tests
 - [meet.js Wrocław presentation](https://www.linkedin.com/posts/meetjs_wrocagkaw-cypress-github-activity-7064973912257769472-JBYt): Cypress & Github - Efficient Setup for Pull Requests with Cypress Cloud and Alternatives
+- [CV v1.7](https://github.com/lukmarcus/lukmarcus.github.io)
 
 #### 2023-05-24
 
+- Internship: Playwright onboarding tests
 - [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 5-6
 
 #### 2023-05-23
 
+- Internship: Playwright onboarding tests
 - [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 3-4
-
-#### 2023-05-23
-
-- [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 1-2
 
 #### 2023-05-22
 
+- [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 1-2
 - YouTube: [BiteIT #78: Playwright – jak dobrze podejść do wdrożenia nowego frameworku? | Michał Wilkowski](https://youtu.be/Vs66ik1sL6s)
 
 #### 2023-05-21
