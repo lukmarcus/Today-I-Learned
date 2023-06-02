@@ -2,6 +2,10 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-06-02
+
+- Internship: Refactoring old Playwright onboarding tests & creating new ones
+
 #### 2023-06-01
 
 - Internship: Refactoring Playwright onboarding tests
