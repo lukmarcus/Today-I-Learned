@@ -2,6 +2,10 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-06-05
+
+- Internship: Refactoring old Playwright onboarding tests & creating new ones
+
 #### 2023-06-04
 
 - [A practical introduction to automated testing with Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/): Section 3, Lessons 8-11
