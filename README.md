@@ -2,6 +2,10 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-06-06
+
+- Internship: Creating data-testId attributes for Playwright onboarding tests
+
 #### 2023-06-05
 
 - Internship: Refactoring old Playwright onboarding tests & creating new ones
