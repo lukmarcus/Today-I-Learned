@@ -2,6 +2,10 @@
 
 My repository with various stuff I've done, seen and learned.
 
+#### 2023-06-08
+
+- Internship: Refactoring Playwright tests
+
 #### 2023-06-07
 
 - Internship: Playwright tests using mail API
